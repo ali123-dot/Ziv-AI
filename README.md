@@ -1,1 +1,1 @@
-# Ziv-AI
+# ZivAI
